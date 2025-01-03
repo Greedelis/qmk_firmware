@@ -4,7 +4,7 @@
 
 
 
-# Main QMK Repository [QMK](https://github.com/qmk/qmk_firmware)
+# [Main QMK Repository](https://github.com/qmk/qmk_firmware)
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 [![Discord](https://img.shields.io/discord/440868230475677696.svg)](https://discord.gg/qmk)
