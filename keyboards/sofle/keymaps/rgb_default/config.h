@@ -23,7 +23,7 @@
 ///https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
 
 #define CUSTOM_FONT
-
+#define HANDS_EE
 #define CUSTOM_LAYER_READ //if you remove this it causes issues - needs better guarding
 
 
